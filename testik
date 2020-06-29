@@ -1,5 +1,7 @@
 
-    {"name": "Performance?",
+    {"name": "Performance",
+        "data" : [
+
     
         "subfolder": [{
         "name": "Subfolder 1",
@@ -26,4 +28,5 @@
             "name": "Subfolder 4",
             "text": "text 4"
         }]
+        ]
 }
