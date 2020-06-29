@@ -1,29 +1,34 @@
-{"name": "Performance",
-    "data" : [{    
-        "subfolder": [{
-        "name": "Subfolder 1",
-        "text": "Lorem Ipsum",
-
-        "subfolder": [{
-            "name": "Subfolder 2",
+{
+    "name" : "Performance",
+    "data" : [
+      {
+        "subfolder" : [{
+            "name": "Subfolder 0",
+            "text": "Lorem Ipsum",
+            "links": [{
+                "name": "Link 1",
+                "url": "Lorem Ipsum"
+            }, {
+                "name": "Subfolder 0.1",
+                "url": "Lorem Ipsum"
+            }]
+        }]
+      },
+      {
+        "subfolder" : [{
+            "name": "Subfolder 1",
             "text": "Lorem Ipsum",
             "subfolder": [{
-                "name": "Subfolder 3",
-                "text": "Lorem Ipsum"
+                "name": "Subfolder 1.1",
+                "text": "text 4"
             }]
-        }],
-
-        "links": [{
-            "name": "Link 1",
-            "url": "Lorem Ipsum"
-        }, {
-            "name": "Subfolder 1",
-            "url": "Lorem Ipsum"
         }]
-        }],
-        "subfolder": [{
-            "name": "Subfolder 4",
-            "text": "text 4"
+      },
+      {
+        "subfolder" : [{
+            "name": "Subfolder 2",
+            "text": "Lorem Ipsum"
         }]
-    }]
-}
+      }
+    ]
+  }
