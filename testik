@@ -1,8 +1,5 @@
-
-    {"name": "Performance",
-        "data" : [
-
-    
+{"name": "Performance",
+    "data" : [{    
         "subfolder": [{
         "name": "Subfolder 1",
         "text": "Lorem Ipsum",
@@ -28,5 +25,5 @@
             "name": "Subfolder 4",
             "text": "text 4"
         }]
-        ]
+    }]
 }
