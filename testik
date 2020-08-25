@@ -1,3 +1,4 @@
+     loadTestingData([
      {"name": "Performance",
         "subfolder": [{
             "name": "Endurance",
@@ -35,3 +36,4 @@
             }]
         }]
  }
+ ])
