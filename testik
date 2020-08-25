@@ -1,4 +1,4 @@
-       "name": "Performance",
+     {"name": "Performance",
         "subfolder": [{
             "name": "Endurance",
             "text": "Endurance Test Results",
@@ -34,3 +34,4 @@
                 }]
             }]
         }]
+ }
