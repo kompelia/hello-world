@@ -1,4 +1,3 @@
-loadTestingData([
     {
         "name": "Performance",
         "subfolder": [{
@@ -37,4 +36,3 @@ loadTestingData([
             }]
         }]
     }
-    ])
