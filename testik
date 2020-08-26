@@ -31,7 +31,6 @@
           "subfolder":[
             {
               "name": "RU",
-              "text": "Text1",
               "links": [{
                 "name": "linkaName",
                 "url": "urlName"
