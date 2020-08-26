@@ -11,7 +11,25 @@
             "subfolder":[
               {
                 "name": "RU2",
-                "text": "RU subfolder",
+                "text": "RU2 subfolder",
+                "links": [
+                  {
+                    "name": "linkaName1",
+                    "url": "urlName"
+                  },
+                  {
+                    "name": "linkaName2",
+                    "url": "urlName"
+                  },
+                               {
+                    "name": "linkaName3",
+                    "url": "urlName"
+                  }
+                ]
+              },
+              {
+                "name": "RU1",
+                "text": "RU1 subfolder",
                 "links": [
                   {
                     "name": "linkaName1",
@@ -24,8 +42,8 @@
                 ]
               },
               {
-                "name": "RU1",
-                "text": "RU subfolder",
+                "name": "RU3",
+                "text": "RU3 subfolder",
                 "links": [
                   {
                     "name": "linkaName1",
