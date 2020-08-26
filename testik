@@ -12,25 +12,16 @@
             {
               "name": "EN",
               "text": "EN subfolder",
-              "links": [
-                {
+              "links": [{
                   "name": "linkaName",
                   "url": "urlName"
-                },
-                {
-                  "name": "linkaName",
-                  "url": "urlName"
-                },
-                {
-                  "name": "linkaName",
-                  "url": "urlName"
-                }
-              ]
+                }]
             }
           ],
           "subfolder":[
             {
               "name": "RU",
+              "text": "RU subfolder",
               "links": [{
                 "name": "linkaName",
                 "url": "urlName"
