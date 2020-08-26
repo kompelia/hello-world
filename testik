@@ -2,54 +2,24 @@
   "name":"Super Testing",
   "subfolder": [
     {
-      "name":"Endurance", 
-      "text":"Endurance Test Results", 
+      "name":"Endurac", 
+      "text":"T1", 
       "subfolder":[
-        {
-          "name":"Endurance Subfolder", 
-          "text":"Endurance Subfolder Test Results", 
-          "subfolder":[
-            "Fiesta", 
-            "Focus", 
-            "Mustang"
-          ]
-        },
-        {
-          "name":"Endurance Subfolder 2", 
-          "text":"Endurance Subfolder 2 Test Results", 
-          "subfolder":[
-            "Fiesta", 
-            "Focus", 
-            "Mustang"
-          ]
-        },
-      ]
-    },
+        "Fiesta", 
+        "Focus", 
+        "Mustang"]},
     {
-      "name":"Load", 
-      "text":"Load Test Results", 
+      "name":"2", 
+      "text":"T2", 
       "subfolder":[
         "320", 
         "X3", 
-        "X5"
-      ]
-    },
+        "X5"]},
     {
-      "name":"Spike", 
-      "text":"Spike Test Results", 
+      "name":"3", 
+      "text":"T3", 
       "subfolder":[
         "500", 
-        "Panda"
-      ]      
-    },
-    {
-      "name":"Stress", 
-      "text":"Stress Test Results", 
-      "subfolder":[
-        "500", 
-        "Panda"
-      ]      
-    }
+        "Panda"] }
   ]
 }
-
