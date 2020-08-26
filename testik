@@ -10,17 +10,17 @@
           "text": "Endurance testing for AppTest",
           "subfolder":[
             {
-              "name": "EN",
-              "text": "EN subfolder",
+              "name": "RU1",
+              "text": "RU subfolder",
               "links": [{
-                  "name": "linkaName",
-                  "url": "urlName"
-                }]
+                "name": "linkaName",
+                "url": "urlName"
+              }]
             }
           ],
           "subfolder":[
             {
-              "name": "RU",
+              "name": "RU2",
               "text": "RU subfolder",
               "links": [{
                 "name": "linkaName",
