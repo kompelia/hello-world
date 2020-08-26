@@ -1,6 +1,4 @@
 {
-"name": "Testing",
-"subfolder": [{
   "name": "Performance",
   "subfolder": [{
     "name": "Endurance",
@@ -10,105 +8,68 @@
         "text": "Endurance testing for AppTest",
         "subfolder": [{
             "name": "LV",
-            "text": "Endurance testing for AppTest",
-            "links": [{
-                "name": "report_1",
-                "url": "www.google.com"
-            }],
-            "links": [{
-                "name": "report_2",
-                "url": "www.google.com"
-            }],
-        }]
-    }],
-    "subfolder": [{
-        "name": "AppTest2",
-        "text": "Endurance testing for AppTest2",
-        "subfolder": [{
-            "name": "LV2",
-            "text": "Endurance testing for AppTest",
+            "text": "Endurance testing for AppTest Latvia",
             "subfolder": [{
-                "name": "report_2",
-                "text": "Individual Report Folder",
-                "links": [{
-                    "name": "report_1",
-                    "url": "www.google.com"
-                }],
+                "name": "report_1",
+                "text": "Individual Report Folder"
             }]
         }]
     }],
-  }],
+    "links": [{
+        "name": "This is link in Endurace folder",
+        "url": "www.google.com"
+    }, 
+    {
+        "name": "Load",
+        "text": "Load Test Results",
+        "subfolder": [{
+            "name": "AppTest",
+            "text": "Endurance testing for AppTest",
+            "subfolder": [{
+                "name": "LV",
+                "text": "Endurance testing for AppTest Latvia"
+            }]
+        }],
+        "links": [{
+            "name": "This is link in Load folder",
+            "url": "www.google.com"
+        }]
+    }]
+}],
   "subfolder": [{
-    "name": "Load",
-    "text": "Load Test Results",
+    "name": "Endurance",
+    "text": "Endurance Test Results",
     "subfolder": [{
-        "name": "LoadTest",
-        "text": "Endurance testing for LoadTest",
+        "name": "AppTest",
+        "text": "Endurance testing for AppTest",
         "subfolder": [{
             "name": "LV",
-            "text": "Endurance testing for LoadTest",
-            "links": [{
-                "name": "report_1",
-                "url": "www.google.com"
-            }],
-            "links": [{
-                "name": "report_2",
-                "url": "www.google.com"
-            }],
-        }]
-    }],
-    "subfolder": [{
-        "name": "LoadTest2",
-        "text": "Endurance testing for LoadTest2",
-        "subfolder": [{
-            "name": "LV2",
-            "text": "Endurance testing for LoadTest2",
+            "text": "Endurance testing for AppTest Latvia",
             "subfolder": [{
-                "name": "report_2",
-                "text": "Individual Report Folder",
-                "links": [{
-                    "name": "report_1",
-                    "url": "www.google.com"
-                }],
+                "name": "report_1",
+                "text": "Individual Report Folder"
             }]
         }]
     }],
-  }],
-  "subfolder": [{
-    "name": "Stress",
-    "text": "Stress Test Results",
-    "subfolder": [{
-        "name": "StressTest",
-        "text": "Stress testing for AppTest",
+    "links": [{
+        "name": "This is link in Endurace folder",
+        "url": "www.google.com"
+    }, 
+    {
+        "name": "Load",
+        "text": "Load Test Results",
         "subfolder": [{
-            "name": "LV",
-            "text": "Stress testing for AppTest",
-            "links": [{
-                "name": "report_1",
-                "url": "www.google.com"
-            }],
-            "links": [{
-                "name": "report_2",
-                "url": "www.google.com"
-            }],
-        }]
-    }],
-    "subfolder": [{
-        "name": "AppTest2",
-        "text": "Endurance testing for AppTest2",
-        "subfolder": [{
-            "name": "LV2",
+            "name": "AppTest",
             "text": "Endurance testing for AppTest",
             "subfolder": [{
-                "name": "report_2",
-                "text": "Individual Report Folder",
-                "links": [{
-                    "name": "report_1",
-                    "url": "www.google.com"
-                }],
+                "name": "LV",
+                "text": "Endurance testing for AppTest Latvia"
             }]
+        }],
+        "links": [{
+            "name": "This is link in Load folder",
+            "url": "www.google.com"
         }]
-    }],
-  }],
+    }]
 }]
 }
