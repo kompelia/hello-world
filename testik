@@ -74,10 +74,16 @@
           {
             "name": "Subfolder1",
             "text": "Text1",
-            "links": [{
-              "name": "linkaName",
-              "url": "urlName"
-            }]
+                "links": [
+                  {
+                    "name": "linkaName1",
+                    "url": "urlName"
+                  },
+                  {
+                    "name": "linkaName2",
+                    "url": "urlName"
+                  }
+                ]
           }
         ]
       },
@@ -88,10 +94,16 @@
           {
             "name": "Subfolder1",
             "text": "Text1",
-            "links": [{
-              "name": "linkaName",
-              "url": "urlName"
-            }]
+                "links": [
+                  {
+                    "name": "linkaName1",
+                    "url": "urlName"
+                  },
+                  {
+                    "name": "linkaName2",
+                    "url": "urlName"
+                  }
+                ]
           }
         ]
       }
