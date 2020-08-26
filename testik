@@ -5,9 +5,15 @@
       "name":"Endurac", 
       "text":"T1", 
       "subfolder":[
-        "Fiesta", 
-        "Focus", 
-        "Mustang"]},
+        {
+          "name": "Subfolder1",
+          "text": "Text1",
+          "links": [{
+            "name": "linkaName",
+            "url": "urlName"
+          }]
+        }
+      ]},
     {
       "name":"2", 
       "text":"T2", 
