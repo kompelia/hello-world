@@ -1,71 +1,16 @@
 {
-    "name":"Performance",
+     "name":"Super Testing",
     "subfolder": [
       {
         "name":"Endurace", 
         "text":"Endurance Test Results", 
         "subfolder":[
           {
-            "name": "AppEndurance",
+            "name": "AppTest",
             "text": "Endurance testing for AppTest",
-            "subfolder":
-            [
-                {"name": "RU",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-                {"name": "RU2",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-                {"name": "RU3",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-            ]
-          },
-          {
-            "name": "Subfolder1.2",
-            "text": "Text1",
             "subfolder":[
               {
-                "name": "Subfolder1.2.1",
+                "name": "RU2",
                 "text": "RU2 subfolder",
                 "links": [
                   {
@@ -83,38 +28,8 @@
                 ]
               },
               {
-                "name": "Subfolder1.2.1",
+                "name": "RU1",
                 "text": "RU1 subfolder",
-                            "subfolder":[
-                {
-                  "name": "RU2",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                },
-                {
-                  "name": "RU1",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                }
-              ],
                 "links": [
                   {
                     "name": "linkaName1",
@@ -127,38 +42,8 @@
                 ]
               },
               {
-                "name": "Subfolder1.2.1",
+                "name": "RU3",
                 "text": "RU3 subfolder",
-                            "subfolder":[
-                {
-                  "name": "RU2",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                },
-                {
-                  "name": "RU1",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                }
-              ],
                 "links": [
                   {
                     "name": "linkaName1",
@@ -170,7 +55,11 @@
                   }
                 ]
               }
-            ],
+            ]
+          },
+          {
+            "name": "Subfolder2",
+            "text": "Text1",
             "links": [{
               "name": "linkaName",
               "url": "urlName"
@@ -179,119 +68,12 @@
         ]
       },
       {
-        "name":"Stress", 
-        "text":"Endurance Test Results", 
+        "name":"2", 
+        "text":"T2", 
         "subfolder":[
           {
-            "name": "AppEndurance",
-            "text": "Endurance testing for AppTest",
-            "subfolder":
-            [
-                {"name": "RU",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-                {"name": "RU2",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-                {"name": "RU3",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-            ]
-          },
-          {
-            "name": "Subfolder1.2",
+            "name": "Subfolder1",
             "text": "Text1",
-            "subfolder":[
-              {
-                "name": "Subfolder1.2.1",
-                "text": "RU2 subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]
-              },
-              {
-                "name": "Subfolder1.2.1",
-                "text": "RU1 subfolder",
-                            "subfolder":[
-                {
-                  "name": "RU2",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                },
-                {
-                  "name": "RU1",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                }
-              ],
                 "links": [
                   {
                     "name": "linkaName1",
@@ -302,173 +84,16 @@
                     "url": "urlName"
                   }
                 ]
-              },
-              {
-                "name": "Subfolder1.2.1",
-                "text": "RU3 subfolder",
-                            "subfolder":[
-                {
-                  "name": "RU2",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                },
-                {
-                  "name": "RU1",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                }
-              ],
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  }
-                ]
-              }
-            ],
-            "links": [{
-              "name": "linkaName",
-              "url": "urlName"
-            }]
           }
         ]
       },
       {
-        "name":"Load", 
-        "text":"Endurance Test Results", 
+        "name":"3", 
+        "text":"T3", 
         "subfolder":[
           {
-            "name": "AppEndurance",
-            "text": "Endurance testing for AppTest",
-            "subfolder":
-            [
-                {"name": "RU",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-                {"name": "RU2",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-                {"name": "RU3",
-                "text": "RU subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]},
-            ]
-          },
-          {
-            "name": "Subfolder1.2",
+            "name": "Subfolder1",
             "text": "Text1",
-            "subfolder":[
-              {
-                "name": "Subfolder1.2.1",
-                "text": "RU2 subfolder",
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  },
-                               {
-                    "name": "linkaName3",
-                    "url": "urlName"
-                  }
-                ]
-              },
-              {
-                "name": "Subfolder1.2.1",
-                "text": "RU1 subfolder",
-                            "subfolder":[
-                {
-                  "name": "RU2",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                },
-                {
-                  "name": "RU1",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                }
-              ],
                 "links": [
                   {
                     "name": "linkaName1",
@@ -479,59 +104,8 @@
                     "url": "urlName"
                   }
                 ]
-              },
-              {
-                "name": "Subfolder1.2.1",
-                "text": "RU3 subfolder",
-                            "subfolder":[
-                {
-                  "name": "RU2",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                },
-                {
-                  "name": "RU1",
-                  "text": "RU subfolder",
-                  "links": [
-                    {
-                      "name": "linkaName1",
-                      "url": "urlName"
-                    },
-                    {
-                      "name": "linkaName2",
-                      "url": "urlName"
-                    }
-                  ]
-                }
-              ],
-                "links": [
-                  {
-                    "name": "linkaName1",
-                    "url": "urlName"
-                  },
-                  {
-                    "name": "linkaName2",
-                    "url": "urlName"
-                  }
-                ]
-              }
-            ],
-            "links": [{
-              "name": "linkaName",
-              "url": "urlName"
-            }]
           }
         ]
       }
     ]
   }
-  
