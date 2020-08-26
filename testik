@@ -12,20 +12,32 @@
             {
               "name": "RU1",
               "text": "RU subfolder",
-              "links": [{
-                "name": "linkaName",
-                "url": "urlName"
-              }]
+              "links": [
+                {
+                  "name": "linkaName1",
+                  "url": "urlName"
+                },
+                {
+                  "name": "linkaName2",
+                  "url": "urlName"
+                }
+              ]
             }
           ],
           "subfolder":[
             {
               "name": "RU2",
               "text": "RU subfolder",
-              "links": [{
-                "name": "linkaName",
-                "url": "urlName"
-              }]
+              "links": [
+                {
+                  "name": "linkaName1",
+                  "url": "urlName"
+                },
+                {
+                  "name": "linkaName2",
+                  "url": "urlName"
+                }
+              ]
             }
           ]
         },
